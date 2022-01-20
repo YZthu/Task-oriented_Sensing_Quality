@@ -1,0 +1,10 @@
+
+*.csv
+footstep_assessment/footstep_mat/three_part_normal_footstep_csv.7z
+
+ball_recognition/*.mat
+ball_recognition/Garage_k_id_location.mat
+ball_recognition/Hall_id_location.mat
+ball_recognition/Lab_beam_id_location.mat
+ball_recognition/Livingroom_base_id_location.mat
+ball_recognition/Livingroom_rug_id_location.mat
