@@ -3,7 +3,7 @@ Task-oriented Vibration Sensing Quality Assessment
 This project is the implementation of sensing quality assessment for the structural vibration-based sensing system. 
 There are two related publications: [AutoQual: task-oriented structural vibration sensing quality assessment leveraging co-located mobile sensing context](https://link.springer.com/article/10.1007/s42486-021-00073-3) and [Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling](https://dl.acm.org/doi/pdf/10.1145/3458648.3460012)
 
-The dataset had published on 
+The dataset had published on [Footstep-Induced Floor Vibration Dataset In Different Deployment Environment](https://zenodo.org/record/5571057#.YejsuP7MJEZ)
 
 
 # Factor Calculation
